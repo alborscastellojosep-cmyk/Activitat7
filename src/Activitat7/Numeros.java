@@ -6,5 +6,6 @@ public class Numeros {
 	        System.out.print(i+", ");
 	    }
         System.out.print(i+" ");
+        System.out.println("\nGracias por ver");
 	}
 }
